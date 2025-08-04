@@ -46,18 +46,17 @@
   },
   "dependencies": {
     "fs-extra": "^11.0.0",
-    "glob": "^10.0.0",
-    "monorepo-cache-manager": "^1.0.0"
+    "glob": "^10.0.0"
   },
   "engines": {
     "node": ">=16.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sudhagar_b/monorepo-cache-manager.git"
+    "url": "https://github.com/sudhagarjb/monorepo-cache-manager.git"
   },
   "bugs": {
-    "url": "https://github.com/sudhagar_b/monorepo-cache-manager/issues"
+    "url": "https://github.com/sudhagarjb/monorepo-cache-manager/issues"
   },
-  "homepage": "https://github.com/sudhagar_b/monorepo-cache-manager#readme"
+  "homepage": "https://github.com/sudhagarjb/monorepo-cache-manager#readme"
 }

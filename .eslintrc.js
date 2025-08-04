@@ -2,7 +2,6 @@ module.exports = {
   parser: '@typescript-eslint/parser',
   extends: [
     'eslint:recommended',
-    '@typescript-eslint/recommended',
   ],
   plugins: ['@typescript-eslint'],
   parserOptions: {
@@ -19,5 +18,6 @@ module.exports = {
     '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/explicit-module-boundary-types': 'off',
     'no-console': 'warn',
+    'no-unused-vars': 'off', // Turn off base rule as it conflicts with TypeScript rule
   },
 }; 
